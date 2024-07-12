@@ -9,8 +9,11 @@ public class Circle extends Shapes {
 		super();
 		this.radius = radius;
 	}
-
+ 
 	public double calArea() {
 		return this.area=3.14*radius*radius;
 	}
 }
+
+//Interface in java is a blueprint of classs.
+
